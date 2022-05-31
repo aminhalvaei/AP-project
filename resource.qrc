@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>image/faraz2.png</file>
+        <file>image/faraz_s.jpg</file>
+        <file>image/admin/acc_reqs.png</file>
+        <file>image/admin/admin_s.png</file>
+        <file>image/admin/card_reqs.svg</file>
+        <file>image/admin/logout.jpg</file>
+        <file>image/admin/transactions.png</file>
+        <file>image/admin/users.png</file>
+        <file>image/user/accounts.png</file>
+        <file>image/user/edit_pro.png</file>
+        <file>image/user/entrance.webp</file>
+        <file>image/user/req_acc.png</file>
+        <file>image/user/user_s.png</file>
+        <file>image/user_panel/accs.png</file>
+        <file>image/user_panel/back.svg</file>
+        <file>image/user_panel/delete.png</file>
+        <file>image/user_panel/entrance.webp</file>
+        <file>image/user_panel/profile.png</file>
+        <file>image/account_panel/account_pic_s.png</file>
+        <file>image/account_panel/back.svg</file>
+        <file>image/account_panel/balance.jpg</file>
+        <file>image/account_panel/card.jpg</file>
+        <file>image/account_panel/dpass.png</file>
+        <file>image/account_panel/tlist.webp</file>
+        <file>image/account_panel/transactions.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,12 @@
+#ifndef PROJECTFINAL_GLOBAL_H
+#define PROJECTFINAL_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(PROJECTFINAL_LIBRARY)
+#  define PROJECTFINAL_EXPORT Q_DECL_EXPORT
+#else
+#  define PROJECTFINAL_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // PROJECTFINAL_GLOBAL_H
